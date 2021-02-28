@@ -1,0 +1,17 @@
+.header {
+  height:10vh;
+  margin:0;
+  padding:0;
+}
+
+.column {
+  margin-top:2vh;
+  text-align:center;
+
+}
+.is-2 {
+  margin-left:0;
+  padding-right:8vw;
+}
+
+
